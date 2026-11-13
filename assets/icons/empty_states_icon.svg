@@ -1,0 +1,22 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <circle
+        cx="110"
+        cy="110"
+        r="70"
+        stroke="#7C73FF"
+        stroke-width="3"
+        stroke-dasharray="8 8"/>
+
+    <path
+        d="M110 145C150 120 145 70 145 70C145 70 95 75 95 120C95 135 103 143 110 145Z"
+        fill="#7C73FF"/>
+
+    <path
+        d="M110 145V90"
+        stroke="white"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+</svg>

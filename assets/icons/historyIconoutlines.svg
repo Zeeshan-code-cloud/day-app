@@ -1,0 +1,32 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <linearGradient id="collectionGradient"
+            x1="0" y1="0" x2="24" y2="24">
+            <stop offset="0%" stop-color="#5148D8"/>
+            <stop offset="50%" stop-color="#3C79F5"/>
+            <stop offset="100%" stop-color="#36D7FF"/>
+        </linearGradient>
+    </defs>
+
+    <path
+        d="M4 8C4 6.9 4.9 6 6 6H10L12 8H18C19.1 8 20 8.9 20 10V17C20 18.1 19.1 19 18 19H6C4.9 19 4 18.1 4 17V8Z"
+        fill="url(#collectionGradient)"/>
+
+    <rect
+        x="8"
+        y="11"
+        width="8"
+        height="2"
+        rx="1"
+        fill="white"/>
+
+    <rect
+        x="8"
+        y="15"
+        width="5"
+        height="2"
+        rx="1"
+        fill="white"/>
+</svg>
